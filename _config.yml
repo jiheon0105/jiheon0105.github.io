@@ -106,7 +106,9 @@ analytics:
 author:
   name             : "Jiheon Rhyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Currently enrolled at Yonsei University(Korea) '\n' An undergraduate student majoring in Sociology and Mathematics, minoring in Applied Statistics."
+  bio              : >
+  "Currently enrolled at Yonsei University(Korea)
+  An undergraduate student majoring in Sociology and Mathematics, minoring in Applied Statistics."
   location         : "Seoul, South Korea"
   email            :
   links:
