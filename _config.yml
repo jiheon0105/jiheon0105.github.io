@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Currently enrolled at Yonsei University(Korea), an undergraduate student majoring in Sociology and Mathematics, minoring in Applied Statistics."
   location         : "Seoul, South Korea"
-  email            :
+  email            : "jiheon0105@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
