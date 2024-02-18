@@ -23,7 +23,7 @@ name                     : "Jiheon Rhyu"
 description              : ""
 url                      : "https://jiheon0105.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-future: true
+future                   : true
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 repository               : "jiheon0105/jiheon0105.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
